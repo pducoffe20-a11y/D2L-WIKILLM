@@ -1,0 +1,88 @@
+---
+id: d2l-02c17f9c55d28b65
+title: Gwinnett County Public Schools
+type: customer-proof
+status: verified
+aliases: []
+tags:
+  - accessibility
+  - brightspace-core
+  - customer-story
+  - education
+  - engagement
+  - hybrid-blended-learning
+  - published
+  - school-district
+source_system: published-customer-story
+source_title: Going Online to Provide Education in All Circumstances
+source_url: https://www.d2l.com/customers/gwinnett-county-public-schools/
+source_date: 2018-07-31
+captured_at: 2026-07-30T15:33:12-04:00
+last_verified: 2026-07-30
+review_after: 2027-01-26
+source_owner: D2L Customer Marketing
+confidence: high
+verification_scope: record-confirmed
+verification_basis: The published customer-story record, metadata, and source link were confirmed.
+external_use: source-check-required
+confidentiality: public
+seller_relevance: Published customer proof candidate for discovery, positioning, proposals, and objection handling; validate the live page before external reuse.
+related: []
+related_notes:
+  - title: "Brightspace Core Positioning"
+    relationship: "uses-product"
+    why: "This customer used Brightspace Core, D2L's foundational LMS platform, as tagged in the source record."
+  - title: "K-12 Playbook"
+    relationship: "validates-context"
+    why: "This customer is a K-12 institution; the playbook explains the sector's specific needs and buying context."
+---
+# Customer Story - Gwinnett County Public Schools - Going Online to Provide Education in All Circumstances
+
+## Verified fact
+
+A published customer-story record exists for Gwinnett County Public Schools. This imported note has been promoted to verified vault status by human override.
+
+## Signal
+
+- Published story summary: Early in the 2017-18 school year, Hurricane Irma exhausted the three built in inclement weather days leaving no days left for the typical ice or snow school closures. When the snow came in January, Gwinnett executed a plan that was a culmination of several years of training and planning. GCPS successfully held three Digital Learning Days and preserved the continuity of instruction.
+- Products/services named in the export: Brightspace Core.
+- Use cases tagged in the export: Engagement, Hybrid/Blended Learning, Accessibility.
+- Learners listed: 182,000+.
+- Context: North America; Education.
+
+## Interpretation
+
+**Interpretation:** The tagged outcomes may make this story relevant to a buyer with matching goals, but the relationship and causality must remain scoped to this customer.
+
+## Why it matters
+
+Provides a discoverable proof candidate without turning an index row into a broader product or outcome claim.
+
+## Seller decision
+
+Use as a proof candidate; recheck the live source before quoting exact wording, metric context, or permissioned external language.
+
+## Next action
+
+Human override completed; recheck the linked story before quoting exact wording or externally reusing specific metrics.
+
+## Desired buyer outcome
+
+Help the buyer evaluate a relevant, credible example while avoiding unsupported generalization.
+
+## Objections and cautions
+
+- Internal indexing is not proof that every exported field appears on the public page.
+- Do not generalize metrics, causality, timing, or ROI beyond the named customer.
+- Recheck the live source before quoting or using metrics externally.
+
+## Sources
+
+- [Gwinnett County Public Schools customer story](https://www.d2l.com/customers/gwinnett-county-public-schools/)
+- Imported from `_ All Customer Stories - Published.csv` supplied by the user.
+
+## Change history
+
+- 2026-07-30: Human override by Pat; marked verified with high confidence.
+
+- 2026-07-30: Imported to `90-Inbox` from the supplied published-customer-stories CSV; verified by human override.

@@ -1,0 +1,2960 @@
+{
+  "items": {
+    "/": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "byCreatedTimeReverse",
+      "customOrder": [
+        "_claude-context.md",
+        "LLM-WIKI D2L"
+      ]
+    },
+    "LLM-WIKI D2L": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "raw",
+        "Dashboards",
+        "Account Research Workflow",
+        "Archive",
+        "Review-Queue",
+        "Source-Index",
+        "Inbox",
+        "Live-Engagements",
+        "Business-Cases",
+        "Buyer-Outcomes",
+        "Internal-Processes",
+        "Objections",
+        "Competitors",
+        "Customer-Proof",
+        "Personas",
+        "Industries",
+        "Use-Cases",
+        "Products",
+        "Ontology",
+        "references",
+        "Entity Template.md",
+        "AGENTS.md",
+        "AI",
+        "VAULT_CONSOLIDATION_REPORT.md",
+        "AI Request Logs",
+        "scripts",
+        "System",
+        "templates",
+        "AGENTS 1.md",
+        "Navigation.md",
+        "README.md",
+        "THIRD_PARTY_LICENSES.md"
+      ]
+    },
+    "LLM-WIKI D2L/Ontology": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "MOCs",
+        "Entities",
+        "Concepts",
+        "Instructions.md"
+      ]
+    },
+    "LLM-WIKI D2L/Ontology/MOCs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "MOCs.md"
+      ]
+    },
+    "LLM-WIKI D2L/Ontology/MOCs/MOCs.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Ontology/Entities": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Entities.md"
+      ]
+    },
+    "LLM-WIKI D2L/Ontology/Entities/Entities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Ontology/Concepts": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Concepts.md"
+      ]
+    },
+    "LLM-WIKI D2L/Ontology/Concepts/Concepts.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Ontology/Instructions.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/references": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "evidence-contract.md",
+        "last30days-integration.md"
+      ]
+    },
+    "LLM-WIKI D2L/references/evidence-contract.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/references/last30days-integration.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Entity Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AGENTS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Skills",
+        "AGENTS.md",
+        "README.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/README.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/VAULT_CONSOLIDATION_REPORT.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI Request Logs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "system-consolidation-category-reduction.md",
+        "graph-view-product-associations.md",
+        "two-vaults-accidentally-combined.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI Request Logs/graph-view-product-associations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI Request Logs/two-vaults-accidentally-combined.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/scripts": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "__pycache__",
+        "format-shell-script-file.md"
+      ]
+    },
+    "LLM-WIKI D2L/scripts/__pycache__": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/scripts/format-shell-script-file.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Tag Migration Map.md",
+        "Schema",
+        "Vault Health",
+        "Configuration",
+        "SYSTEM READ_ME.md"
+      ]
+    },
+    "LLM-WIKI D2L/System/Schema": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "KNOWLEDGE STANDARDS.md",
+        "DATA DICTIONARY.md",
+        "Schema.md"
+      ]
+    },
+    "LLM-WIKI D2L/System/Schema/KNOWLEDGE STANDARDS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Schema/DATA DICTIONARY.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Schema/Schema.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Vault Health": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "HEALTH REPORT.md",
+        "Retrieval Acceptance.md",
+        "Promotion Review.md"
+      ]
+    },
+    "LLM-WIKI D2L/System/Vault Health/HEALTH REPORT.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Vault Health/Retrieval Acceptance.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Vault Health/Promotion Review.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Configuration": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Refresh Policy.md",
+        "Approved Sources.md"
+      ]
+    },
+    "LLM-WIKI D2L/System/Configuration/Refresh Policy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Configuration/Approved Sources.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/SYSTEM READ_ME.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/templates": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Relationship Mapping Template.md",
+        "Source Record.md",
+        "Universal Note.md",
+        "Standard Template.md",
+        "Standard Note Template.md",
+        "MOC Template.md",
+        "Entity Template.md"
+      ]
+    },
+    "LLM-WIKI D2L/templates/Source Record.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/templates/Universal Note.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/templates/Standard Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/templates/Standard Note Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/templates/MOC Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/templates/Entity Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AGENTS 1.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Navigation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/README.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/THIRD_PARTY_LICENSES.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "_claude-context.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "MOC.md",
+        "Video Assignments and Virtual Classroom.md",
+        "README.md",
+        "Creator Plus Public Capabilities.md",
+        "Professional Learning Extensions.md",
+        "Product and Solution Knowledge.md",
+        "Internal Product Fit and Boundary Matrix.md",
+        "Performance Plus Public Capabilities.md",
+        "D2L Link Public Integrations.md",
+        "D2L Lumi Public Capabilities.md",
+        "Createspace Beta Public Status.md",
+        "Course Merchant",
+        "Brightspace Core",
+        "Achievement Plus Public Capabilities.md",
+        "Accessibility"
+      ]
+    },
+    "LLM-WIKI D2L/Products/Accessibility": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Accessibility Plus Public Capabilities.md",
+        "Accessibility Plus Current Internal Status.md"
+      ]
+    },
+    "LLM-WIKI D2L/Products/Achievement Plus Public Capabilities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Brightspace Core": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Brightspace Public Release Radar.md",
+        "Brightspace Core Positioning.md",
+        "Brightspace Public Product Overview.md",
+        "Brightspace Mobile and Pulse.md"
+      ]
+    },
+    "LLM-WIKI D2L/Products/Course Merchant": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Course Merchant Public Capabilities.md"
+      ]
+    },
+    "LLM-WIKI D2L/Products/Createspace Beta Public Status.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/D2L Lumi Public Capabilities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/D2L Link Public Integrations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Performance Plus Public Capabilities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Internal Product Fit and Boundary Matrix.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Product and Solution Knowledge.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Professional Learning Extensions.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Creator Plus Public Capabilities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/README.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Video Assignments and Virtual Classroom.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/MOC.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Accessibility/Accessibility Plus Current Internal Status.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Accessibility/Accessibility Plus Public Capabilities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Brightspace Core/Brightspace Mobile and Pulse.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Brightspace Core/Brightspace Public Product Overview.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Brightspace Core/Brightspace Core Positioning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Brightspace Core/Brightspace Public Release Radar.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Products/Course Merchant/Course Merchant Public Capabilities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Integration Complexity.md",
+        "Inconsistent Content Delivery.md",
+        "02 - Use-Cases MOC.md",
+        "Multilingual External Training.md",
+        "Manual Administration Burden.md",
+        "Low Learner Engagement Visibility.md",
+        "Limited Reporting Confidence.md",
+        "Global Audience Complexity.md",
+        "Fragmented Learner Experience.md",
+        "Credentialing Workflow Friction.md",
+        "External Audience Access Complexity.md",
+        "Continuing Education Growth Constraint.md",
+        "Association LMS Modernization.md"
+      ]
+    },
+    "LLM-WIKI D2L/Use-Cases/Association LMS Modernization.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Continuing Education Growth Constraint.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/External Audience Access Complexity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Credentialing Workflow Friction.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Fragmented Learner Experience.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Global Audience Complexity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Limited Reporting Confidence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Low Learner Engagement Visibility.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Manual Administration Burden.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Multilingual External Training.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/02 - Use-Cases MOC.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Inconsistent Content Delivery.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Use-Cases/Integration Complexity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Healthcare and Regulated Training Playbook.md",
+        "Training Organizations",
+        "K-12 Playbook.md",
+        "Nonprofits",
+        "Industry Playbooks.md",
+        "Entity - Industry Map.md",
+        "Government and Public Sector Playbook.md",
+        "Higher Education Playbook.md",
+        "Corporate Learning Playbook.md",
+        "Associations Industry"
+      ]
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Types of Associations.md",
+        "Needs Framework.md",
+        "D2L Associations Pitchbook - Map of Content (MOC).md",
+        "D4A MOC.md",
+        "D4A Package.md",
+        "Associations Business Case.md"
+      ]
+    },
+    "LLM-WIKI D2L/Industries/Corporate Learning Playbook.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Higher Education Playbook.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Government and Public Sector Playbook.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Entity - Industry Map.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Industry Playbooks.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Nonprofits": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/Industries/K-12 Playbook.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Training Organizations": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/Industries/Healthcare and Regulated Training Playbook.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry/Associations Business Case.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry/D4A Package.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry/D4A MOC.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry/D2L Associations Pitchbook - Map of Content (MOC).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry/Needs Framework.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Industries/Associations Industry/Types of Associations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "LMS Administrator.md",
+        "Learning Administration Manager.md",
+        "IT Stakeholder.md",
+        "INSTRUCTIONAL DESIGN.md",
+        "DIRECTOR-VP EDUCATION.md",
+        "Commercial Learning Executive.md",
+        "CFO.md",
+        "CIO.md"
+      ]
+    },
+    "LLM-WIKI D2L/Personas/CIO.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/CFO.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/Commercial Learning Executive.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/DIRECTOR-VP EDUCATION.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/INSTRUCTIONAL DESIGN.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/IT Stakeholder.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/Learning Administration Manager.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Personas/LMS Administrator.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "york-technical-college-revitalizing-the-learner-experience-with-innovation-and-integrations.md",
+        "york-technical-college-creating-engaging-and-interactive-digital-courses.md",
+        "xavier-university-of-louisiana-streamlining-the-transition-to-online-teaching.md",
+        "year-up.md",
+        "xavier-university-of-louisiana-advancing-faculty-expertise-through-instructional-continuity.md",
+        "wodonga-middle-years-college-enables-success-for-all-with-brightspace.md",
+        "the-capitech-foundation-widening-access-to-maths-learning-in-south-africa.md",
+        "vhs-learning-bringing-asl-to-online-learners-through-video.md",
+        "valdosta-state-university-using-brightspace-to-implement-a-unique-cbe-experience.md",
+        "upper-grand-district-school-board-ugdsb-the-power-of-agile-and-responsive-professional-learning.md",
+        "university-of-guelph-turning-challenge-into-opportunity.md",
+        "university-of-waterloo-creating-a-dynamic-online-learning-experience.md",
+        "university-of-surrey-rising-to-top-three-in-rankings-through-digital-learning-innovations.md",
+        "university-of-southern-california-annenberg-campus-pilot-sets-new-standards-for-creative-and-inclusive-course-design.md",
+        "university-of-central-oklahoma-elevating-online-learning-through-faculty-development.md",
+        "uniservices-new-zealand-introducing-online-educational-improvements-for-immunisation-service-for-migrants-and-refugees.md",
+        "ufcw-canada-learning-in-the-moment-empowering-union-members-on-the-go.md",
+        "ultimate-medical-academy.md",
+        "ultimate-medical-academy-uma-change-management-propels-success-in-course-design-process.md",
+        "ufcw-canada.md",
+        "the-west-bridgford-school-maintaining-learning-during-the-covid-19-crisis.md",
+        "treca-supporting-at-risk-students-with-personalized-learning.md",
+        "the-university-at-buffalo-video-story-change-management-an-lms-implementation-success-story.md",
+        "traverse-city-area-public-schools-tcaps-supporting-teachers-in-becoming-digital-learning-champions-for-students.md",
+        "the-steam-academy.md",
+        "the-robb-nash-project-raising-mental-health-awareness-in-schools.md",
+        "the-institute-for-integrative-nutrition-learning-to-inspire-healthy-lives.md",
+        "the-international-institute-of-nutrition-and-health-published-customer-story-metadata-incomplete.md",
+        "the-elementary-teachers-federation-of-ontario-helping-teachers-become-world-class-educators.md",
+        "the-college-of-massage-therapists-of-british-columbia-cmtbc-innovating-to-maintain-professional-practice-standards.md",
+        "texas-am-university-how-this-innovative-university-is-addressing-the-60x30tx-initative.md",
+        "texas-am-university-commerce-unlocking-career-advancement-through-competency-based-learning.md",
+        "teaching-training-together.md",
+        "te-aho-o-te-kura-pounamu-bridging-the-distance-between-online-learners.md",
+        "temple-college-adapting-to-meet-student-needs.md",
+        "tafe-queensland-published-customer-story-metadata-incomplete.md",
+        "tafe-queensland-setting-record-for-volunteer-training.md",
+        "surrey-school-district-sd36-supporting-k-12-students-by-modernizing-teacher-professional-development.md",
+        "stephen-f-austin-state-university-five-star-accomodation.md",
+        "suny-sunys-bold-move-to-transform-digital-learning.md",
+        "southern-new-hampshire-university-why-snhu-chose-brightspace-as-their-lms.md",
+        "southern-new-hampshire-university-helping-to-reduce-barriers-with-online-experiential-learning.md",
+        "southern-illinois-university-carbondale-achieving-inclusive-excellence.md",
+        "southern-alberta-institute-of-technology-launchpad-to-success.md",
+        "south-university-transforming-adult-education-at-south-university-elevating-online-learning-with-data-driven-insights.md",
+        "southern-alberta-institute-of-technology-harnessing-analytics-to-boost-lms-adoption.md",
+        "south-island-distance-education-school-sides-bringing-students-and-teacher-together-with-engaging-distance-learning.md",
+        "sourcewell.md",
+        "saskatchewan-indian-institute-of-technologies-siit-suppoting-first-nations-communities.md",
+        "singapore-polytechnic-equipping-1400-staff-with-foundational-gen-ai-skills.md",
+        "serefin.md",
+        "sinclair-community-college-the-journey-to-competency-based-education.md",
+        "sinclair-community-college-helping-online-learners-achieve-academic-success.md",
+        "real-estate-institute-of-new-south-wales-elevating-real-estate-training-reinsws-brightspace-journey.md",
+        "putnam-northern-westchester-board-of-cooperative-educational-services-pnw-boces-professional-learning-that-respects-educators.md",
+        "purdue-university-purdue-university-delivering-excellent-learning-experiences-at-scale.md",
+        "purdue-university-purdue-university-creates-a-foundation-for-e-learning-success.md",
+        "purdue-university-how-purdue-university-built-an-accessible-and-centralized-learning-hub.md",
+        "purdue-global-exchanging-caution-for-delight-thanks-to-brightspace.md",
+        "property-council-of-australia-property-council-of-australia-reimagining-its-academy.md",
+        "professional-development-institute-pdi-empowering-teachers-to-excel.md",
+        "pima-community-college-removing-economic-barriers-to-education.md",
+        "penn-foster-group-enhancing-the-learning-experience-with-accessible-and-flexible-text-to-speech.md",
+        "parkland-college-helping-students-stay-on-track-for-success.md",
+        "orijin.md",
+        "orenda-learning-building-learning-experiences-that-matter.md",
+        "ontario-teachers-brightspace-impact-on-ontario-teachers-and-students.md",
+        "northeastern-technical-college-.md",
+        "northeast-iowa-community-college-enhancing-student-support-and-engagement-with-a-transformative-accessibility-hub.md",
+        "north-east-scotland-college-migrating-to-brightspace-for-intuitive-and-flexible-digital-learning.md",
+        "new-leaders-tackling-inequities-in-public-education.md",
+        "necedah-schools-extending-learning-beyond-the-classroom.md",
+        "national-society-of-high-school-scholars-helping-gen-z-succeed-in-the-workplace.md",
+        "money-management-institute-transforming-executive-training-in-financial-services.md",
+        "modern-states-education-alliance-making-higher-education-more-accessible-to-more-people.md",
+        "minnesota-state-it-center-of-excellence.md",
+        "michigan-virtual-empowering-students-with-flexible-learning.md",
+        "mgh-institute-of-health-professions-use-of-brightspace-goes-far-beyong-expectations.md",
+        "mgh-institute-of-health-professions-shaping-the-future-of-healthcare-professionals-through-education.md",
+        "maine-virtual-academy-a-data-driven-approach-to-accessible-virtual-learning.md",
+        "mckendree-university-modernizing-university-education-with-digital-learning.md",
+        "los-angeles-pacific-university-equipping-students-with-competency-based-education-a-path-to-empowerment.md",
+        "london-district-catholic-school-board-teachers-become-the-students.md",
+        "life-literacy-education-building-financial-literacy-and-life-skills-for-vulnerable-youth.md",
+        "longwood-gardens-planting-the-seeds-of-learning-worldwide.md",
+        "kaplan-financial-gamifying-accountancy-courses-to-boost-performance.md",
+        "kennesaw-state-university-enhancing-online-education-a-journey-of-innovation-and-growth.md",
+        "into-university-partnerships-preparing-international-students-for-university.md",
+        "irish-deaf-society-reaching-learners-around-the-world-with-cohesive-content-rich-visual-learning.md",
+        "international-society-for-technology-in-education-iste-empowering-educators-with-community-focused-learning.md",
+        "international-information-systems-security-certification-consortium-isc2-professional-development-at-scale.md",
+        "international-municipal-signals-association-imsa-giving-career-development-the-green-light.md",
+        "gwinnett-online-campus-delivering-on-time-teacher-and-student-training.md",
+        "harvard-business-publishing-corporate-learning-creating-custom-learning-experiences-at-scale.md",
+        "ilinniapaa-skills-development-centre-isdc-learning-tailored-to-inuit-needs.md",
+        "hamilton-wentworth-district-school-board.md",
+        "halton-catholic-district-school-board-how-brightspace-gives-all-students-access-to-enriched-resources.md",
+        "gwinnett-online-campus-supporting-every-student-with-individualized-learning-paths.md",
+        "gwinnett-county-public-schools-success-with-district-wide-digital-learning-initiative.md",
+        "gwinnett-county-public-schools-going-online-to-provide-education-in-all-circumstances.md",
+        "gwinnett-online-campus-an-inviting-and-engaging-online-learning-experience.md",
+        "gay-lea-foods-building-a-competitive-co-operative-building-a-competitive-co-operative.md",
+        "grain-and-feed-trade-association-educating-a-global-industry.md",
+        "good-roads.md",
+        "good-roads-paving-the-way-to-new-educational-experiences.md",
+        "gedsb-achieving-5x-growth-in-online-learning-through-student-choice.md",
+        "georgia-gwinnett-college-preparing-preservice-teachers-for-the-technology-enabled-classroom.md",
+        "fort-wayne-community-schools-addressing-teacher-shortages-retention-and-impact-with-enhanced-professional-learning.md",
+        "fanshawe-college.md",
+        "epworth-healthcare-from-compliance-to-engagement.md",
+        "element-technical-services-.md",
+        "energy-safety-canada-energy-safety-canada-drives-continuous-improvement-with-d2l-brightspace.md",
+        "edmonton-catholic-school-district-ecsd-revelation-online.md",
+        "durham-district-school-board-ddsb-simplifying-how-professional-development-is-delivered.md",
+        "el-paso-community-college-competency-based-education-for-every-circumstance.md",
+        "delft-university-of-technology-20000-students-enjoy-a-more-personalized-engaging-learning-experience.md",
+        "dematic-developing-competencies-to-drive-growth.md",
+        "consortium-dapprentissage-virtuel-de-langue-francaise-de-lontario-cavlfo-cavlfo-designing-engaging-courses-for-french-speaking-students.md",
+        "desales-university-accessible-education-empowering-students-with-flexible-learning.md",
+        "d2l-solutions-engineering-accelerating-time-to-value-with-role-based-learning.md",
+        "deakin-university-boosting-learner-engagement-with-an-interactive-interview-simulation.md",
+        "competency-based-education-network-c-ben-theory-to-practice-how-c-ben-is-defining-the-cbe-experience-challenge.md",
+        "college-communautaire-du-noveau-brunswick.md",
+        "colliers-project.md",
+        "canadian-sport-institute.md",
+        "canadian-marketing-association-.md",
+        "chattanooga-state-community-college.md",
+        "canadian-marketing-association-cma-keeping-canadas-marketers-at-the-top-of-their-game.md",
+        "canadian-centre-for-professional-legal-education-cpled-training-the-lawyers-of-tomorrow.md",
+        "campus-living-centres-redesigning-onboarding-experience-for-residency-staff.md",
+        "c-ben-published-customer-story-metadata-incomplete.md",
+        "british-society-of-lifestyle-medicine-icine-certification-for-global-impact.md",
+        "blyth-academy-online-ess-online-learning.md",
+        "bentley-university-a-new-era-of-learning-for-bentley-university.md",
+        "Proof Needed - Multilingual External Training.md",
+        "association-to-advance-collegiate-schools-of-business-aacsb-how-aacsb-transformed-business-education-with-a-competency-based-education-academy.md",
+        "australian-and-new-zealand-college-of-anaesthetists-providing-a-learner-centric-educational-experience-for-members.md",
+        "austin-community-college-.md",
+        "Proof Needed - Administration Efficiency.md",
+        "Proof Card - UFCW Canada - Microlearning Lifts Union Member Enrollment.md",
+        "Proof Card - SAIT - Analytics-Led LMS Adoption.md",
+        "Proof Card - REINSW - Rapid Implementation Driving Provider Growth.md",
+        "Proof Card - Singapore Polytechnic - Institution-Wide AI Upskilling.md",
+        "Proof Card - National Society of High School Scholars - Youth Employability Nonprofit Program.md",
+        "Proof Card - Property Council of Australia - Reimagined Academy Experience.md",
+        "Proof Card - Money Management Institute - Executive Learning Hub Doubling Engagement.md",
+        "Proof Card - Professional Development Institute - Reclaiming Days of Admin Work Weekly.md",
+        "Proof Card - Irish Deaf Society - Accessible Visual Learning at Global Reach.md",
+        "AlPena Public Schools.md",
+        "Proof Card - IMSA - Faster Certification for Public Safety Professionals.md",
+        "Proof Card - ISTE - Community-Focused Professional Learning at Scale.md",
+        "Proof Card - Grain and Feed Trade Association - Global Distance Learning at Scale.md",
+        "Proof Card - Good Roads - Scalable Association Training.md",
+        "Proof Card - Colliers Project Leaders - Training at Business Scale.md",
+        "Proof Card - Epworth HealthCare - Compliance Learning Efficiency.md",
+        "Proof Card - ETFO - Nine Years of Enrollment Growth in Union Professional Learning.md",
+        "Proof Card - Canadian Sport Institute Calgary - Flexible Coach Education Across Distances.md",
+        "Proof Card - Capitec Foundation - Equitable Access to Learning at Scale.md",
+        "Proof Card - Canadian Marketing Association - Building a Professional Designation from Scratch.md",
+        "Proof Card - CHIME - Accelerated Digital Learning Launch.md",
+        "Proof Card - British Society of Lifestyle Medicine - Certification Driving Global Health Impact and Revenue.md",
+        "Proof Card",
+        "Proof Card - AACSB - Administrative Automation Frees Staff for Strategy.md",
+        "GAFTA.md",
+        "Navigation - MOC",
+        "Customer Story - York Technical College - Revitalizing the Learner Experience with Innovation and Integrations.md",
+        "Advance He.md",
+        "CHIME.md",
+        "Agricolleges International.md",
+        "AACSB.md",
+        "ACFS.md"
+      ]
+    },
+    "LLM-WIKI D2L/Customer-Proof/ACFS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/AACSB.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Agricolleges International.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/CHIME.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Advance He.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Customer Story - York Technical College - Revitalizing the Learner Experience with Innovation and Integrations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Navigation - MOC": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Customer Proof by Industry and Use Case.md",
+        "Proof Synthesis Index.md",
+        "Customer Story Navigator.md",
+        "Curated Proof Point Cards.md"
+      ]
+    },
+    "LLM-WIKI D2L/Customer-Proof/GAFTA.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - AACSB - Administrative Automation Frees Staff for Strategy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Proof Card - Year Up United - Consolidation and Administrative Efficiency.md"
+      ]
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - British Society of Lifestyle Medicine - Certification Driving Global Health Impact and Revenue.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - CHIME - Accelerated Digital Learning Launch.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Canadian Marketing Association - Building a Professional Designation from Scratch.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Capitec Foundation - Equitable Access to Learning at Scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Canadian Sport Institute Calgary - Flexible Coach Education Across Distances.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - ETFO - Nine Years of Enrollment Growth in Union Professional Learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Epworth HealthCare - Compliance Learning Efficiency.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Colliers Project Leaders - Training at Business Scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Good Roads - Scalable Association Training.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Grain and Feed Trade Association - Global Distance Learning at Scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - ISTE - Community-Focused Professional Learning at Scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - IMSA - Faster Certification for Public Safety Professionals.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/AlPena Public Schools.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Irish Deaf Society - Accessible Visual Learning at Global Reach.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Professional Development Institute - Reclaiming Days of Admin Work Weekly.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Money Management Institute - Executive Learning Hub Doubling Engagement.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Property Council of Australia - Reimagined Academy Experience.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - National Society of High School Scholars - Youth Employability Nonprofit Program.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - Singapore Polytechnic - Institution-Wide AI Upskilling.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - REINSW - Rapid Implementation Driving Provider Growth.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - SAIT - Analytics-Led LMS Adoption.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card - UFCW Canada - Microlearning Lifts Union Member Enrollment.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Needed - Administration Efficiency.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/austin-community-college-.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/australian-and-new-zealand-college-of-anaesthetists-providing-a-learner-centric-educational-experience-for-members.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/association-to-advance-collegiate-schools-of-business-aacsb-how-aacsb-transformed-business-education-with-a-competency-based-education-academy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Needed - Multilingual External Training.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/bentley-university-a-new-era-of-learning-for-bentley-university.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/blyth-academy-online-ess-online-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/british-society-of-lifestyle-medicine-icine-certification-for-global-impact.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/c-ben-published-customer-story-metadata-incomplete.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/campus-living-centres-redesigning-onboarding-experience-for-residency-staff.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/canadian-centre-for-professional-legal-education-cpled-training-the-lawyers-of-tomorrow.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/canadian-marketing-association-cma-keeping-canadas-marketers-at-the-top-of-their-game.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/chattanooga-state-community-college.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/canadian-marketing-association-.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/canadian-sport-institute.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/colliers-project.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/college-communautaire-du-noveau-brunswick.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/competency-based-education-network-c-ben-theory-to-practice-how-c-ben-is-defining-the-cbe-experience-challenge.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/deakin-university-boosting-learner-engagement-with-an-interactive-interview-simulation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/d2l-solutions-engineering-accelerating-time-to-value-with-role-based-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/desales-university-accessible-education-empowering-students-with-flexible-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/consortium-dapprentissage-virtuel-de-langue-francaise-de-lontario-cavlfo-cavlfo-designing-engaging-courses-for-french-speaking-students.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/dematic-developing-competencies-to-drive-growth.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/delft-university-of-technology-20000-students-enjoy-a-more-personalized-engaging-learning-experience.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/el-paso-community-college-competency-based-education-for-every-circumstance.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/durham-district-school-board-ddsb-simplifying-how-professional-development-is-delivered.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/edmonton-catholic-school-district-ecsd-revelation-online.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/energy-safety-canada-energy-safety-canada-drives-continuous-improvement-with-d2l-brightspace.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/element-technical-services-.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/epworth-healthcare-from-compliance-to-engagement.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/fanshawe-college.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/fort-wayne-community-schools-addressing-teacher-shortages-retention-and-impact-with-enhanced-professional-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/georgia-gwinnett-college-preparing-preservice-teachers-for-the-technology-enabled-classroom.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gedsb-achieving-5x-growth-in-online-learning-through-student-choice.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/good-roads-paving-the-way-to-new-educational-experiences.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/good-roads.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/grain-and-feed-trade-association-educating-a-global-industry.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gay-lea-foods-building-a-competitive-co-operative-building-a-competitive-co-operative.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gwinnett-online-campus-an-inviting-and-engaging-online-learning-experience.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gwinnett-county-public-schools-going-online-to-provide-education-in-all-circumstances.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gwinnett-county-public-schools-success-with-district-wide-digital-learning-initiative.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gwinnett-online-campus-supporting-every-student-with-individualized-learning-paths.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/halton-catholic-district-school-board-how-brightspace-gives-all-students-access-to-enriched-resources.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/hamilton-wentworth-district-school-board.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/ilinniapaa-skills-development-centre-isdc-learning-tailored-to-inuit-needs.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/harvard-business-publishing-corporate-learning-creating-custom-learning-experiences-at-scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/gwinnett-online-campus-delivering-on-time-teacher-and-student-training.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/international-municipal-signals-association-imsa-giving-career-development-the-green-light.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/international-information-systems-security-certification-consortium-isc2-professional-development-at-scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/international-society-for-technology-in-education-iste-empowering-educators-with-community-focused-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/irish-deaf-society-reaching-learners-around-the-world-with-cohesive-content-rich-visual-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/into-university-partnerships-preparing-international-students-for-university.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/kennesaw-state-university-enhancing-online-education-a-journey-of-innovation-and-growth.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/kaplan-financial-gamifying-accountancy-courses-to-boost-performance.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/longwood-gardens-planting-the-seeds-of-learning-worldwide.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/life-literacy-education-building-financial-literacy-and-life-skills-for-vulnerable-youth.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/london-district-catholic-school-board-teachers-become-the-students.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/los-angeles-pacific-university-equipping-students-with-competency-based-education-a-path-to-empowerment.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/mckendree-university-modernizing-university-education-with-digital-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/maine-virtual-academy-a-data-driven-approach-to-accessible-virtual-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/mgh-institute-of-health-professions-shaping-the-future-of-healthcare-professionals-through-education.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/mgh-institute-of-health-professions-use-of-brightspace-goes-far-beyong-expectations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/michigan-virtual-empowering-students-with-flexible-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/minnesota-state-it-center-of-excellence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/modern-states-education-alliance-making-higher-education-more-accessible-to-more-people.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/money-management-institute-transforming-executive-training-in-financial-services.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/national-society-of-high-school-scholars-helping-gen-z-succeed-in-the-workplace.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/necedah-schools-extending-learning-beyond-the-classroom.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/new-leaders-tackling-inequities-in-public-education.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/north-east-scotland-college-migrating-to-brightspace-for-intuitive-and-flexible-digital-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/northeast-iowa-community-college-enhancing-student-support-and-engagement-with-a-transformative-accessibility-hub.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/northeastern-technical-college-.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/ontario-teachers-brightspace-impact-on-ontario-teachers-and-students.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/orenda-learning-building-learning-experiences-that-matter.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/orijin.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/parkland-college-helping-students-stay-on-track-for-success.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/penn-foster-group-enhancing-the-learning-experience-with-accessible-and-flexible-text-to-speech.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/pima-community-college-removing-economic-barriers-to-education.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/professional-development-institute-pdi-empowering-teachers-to-excel.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/property-council-of-australia-property-council-of-australia-reimagining-its-academy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/purdue-global-exchanging-caution-for-delight-thanks-to-brightspace.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/purdue-university-how-purdue-university-built-an-accessible-and-centralized-learning-hub.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/purdue-university-purdue-university-creates-a-foundation-for-e-learning-success.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/purdue-university-purdue-university-delivering-excellent-learning-experiences-at-scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/putnam-northern-westchester-board-of-cooperative-educational-services-pnw-boces-professional-learning-that-respects-educators.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/real-estate-institute-of-new-south-wales-elevating-real-estate-training-reinsws-brightspace-journey.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/sinclair-community-college-helping-online-learners-achieve-academic-success.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/sinclair-community-college-the-journey-to-competency-based-education.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/serefin.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/singapore-polytechnic-equipping-1400-staff-with-foundational-gen-ai-skills.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/saskatchewan-indian-institute-of-technologies-siit-suppoting-first-nations-communities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/sourcewell.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/south-island-distance-education-school-sides-bringing-students-and-teacher-together-with-engaging-distance-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/southern-alberta-institute-of-technology-harnessing-analytics-to-boost-lms-adoption.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/south-university-transforming-adult-education-at-south-university-elevating-online-learning-with-data-driven-insights.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/southern-alberta-institute-of-technology-launchpad-to-success.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/southern-illinois-university-carbondale-achieving-inclusive-excellence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/southern-new-hampshire-university-helping-to-reduce-barriers-with-online-experiential-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/southern-new-hampshire-university-why-snhu-chose-brightspace-as-their-lms.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/suny-sunys-bold-move-to-transform-digital-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/stephen-f-austin-state-university-five-star-accomodation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/surrey-school-district-sd36-supporting-k-12-students-by-modernizing-teacher-professional-development.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/tafe-queensland-setting-record-for-volunteer-training.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/tafe-queensland-published-customer-story-metadata-incomplete.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/temple-college-adapting-to-meet-student-needs.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/te-aho-o-te-kura-pounamu-bridging-the-distance-between-online-learners.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/teaching-training-together.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/texas-am-university-commerce-unlocking-career-advancement-through-competency-based-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/texas-am-university-how-this-innovative-university-is-addressing-the-60x30tx-initative.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-college-of-massage-therapists-of-british-columbia-cmtbc-innovating-to-maintain-professional-practice-standards.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-elementary-teachers-federation-of-ontario-helping-teachers-become-world-class-educators.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-international-institute-of-nutrition-and-health-published-customer-story-metadata-incomplete.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-institute-for-integrative-nutrition-learning-to-inspire-healthy-lives.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-robb-nash-project-raising-mental-health-awareness-in-schools.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-steam-academy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/traverse-city-area-public-schools-tcaps-supporting-teachers-in-becoming-digital-learning-champions-for-students.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-university-at-buffalo-video-story-change-management-an-lms-implementation-success-story.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/treca-supporting-at-risk-students-with-personalized-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-west-bridgford-school-maintaining-learning-during-the-covid-19-crisis.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/ufcw-canada.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/ultimate-medical-academy-uma-change-management-propels-success-in-course-design-process.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/ultimate-medical-academy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/ufcw-canada-learning-in-the-moment-empowering-union-members-on-the-go.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/uniservices-new-zealand-introducing-online-educational-improvements-for-immunisation-service-for-migrants-and-refugees.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/university-of-central-oklahoma-elevating-online-learning-through-faculty-development.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/university-of-southern-california-annenberg-campus-pilot-sets-new-standards-for-creative-and-inclusive-course-design.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/university-of-surrey-rising-to-top-three-in-rankings-through-digital-learning-innovations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/university-of-waterloo-creating-a-dynamic-online-learning-experience.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/university-of-guelph-turning-challenge-into-opportunity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/upper-grand-district-school-board-ugdsb-the-power-of-agile-and-responsive-professional-learning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/valdosta-state-university-using-brightspace-to-implement-a-unique-cbe-experience.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/vhs-learning-bringing-asl-to-online-learners-through-video.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/the-capitech-foundation-widening-access-to-maths-learning-in-south-africa.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/wodonga-middle-years-college-enables-success-for-all-with-brightspace.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/xavier-university-of-louisiana-advancing-faculty-expertise-through-instructional-continuity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/year-up.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/xavier-university-of-louisiana-streamlining-the-transition-to-online-teaching.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/york-technical-college-creating-engaging-and-interactive-digital-courses.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/york-technical-college-revitalizing-the-learner-experience-with-innovation-and-integrations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Navigation - MOC/Curated Proof Point Cards.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Navigation - MOC/Customer Story Navigator.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Navigation - MOC/Proof Synthesis Index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Proof Card/Proof Card - Year Up United - Consolidation and Administrative Efficiency.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Customer-Proof/Navigation - MOC/Customer Proof by Industry and Use Case.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Competitor Theme - Suite Platform.md",
+        "Competitors MOC.md",
+        "README.md",
+        "Competitive Cards.md",
+        "Competitive Evaluation Framework.md",
+        "Competitor Theme - Basic LMS.md",
+        "Competitive Card - TalentLMS.md",
+        "Competitive Card - Status Quo.md",
+        "Competitive Card - Litmos.md",
+        "Competitive Card - Cornerstone.md",
+        "Competitive Card - Moodle.md",
+        "Competitive Card - Docebo.md",
+        "Competitive Card - Canvas.md",
+        "Competitive Card - Blackboard.md",
+        "Competitive Card - Absorb.md"
+      ]
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Absorb.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Blackboard.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Canvas.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Docebo.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Moodle.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Cornerstone.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Litmos.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - Status Quo.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Card - TalentLMS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitor Theme - Basic LMS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Evaluation Framework.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitive Cards.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/README.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitors MOC.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Competitors/Competitor Theme - Suite Platform.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Objection - Reporting Fit.md",
+        "Objection Enrichment Standard.md",
+        "Objection - Learner Adoption.md",
+        "Objection - Proof Relevance.md",
+        "Objection - Feature Parity.md",
+        "Objection - Migration Risk.md",
+        "Objection - Administration Effort.md",
+        "Objection - Integration Risk.md",
+        "Objection - Implementation Capacity.md",
+        "Objection - Change Fatigue.md",
+        "Objection - Budget Uncertainty.md"
+      ]
+    },
+    "LLM-WIKI D2L/Objections/Objection - Budget Uncertainty.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Change Fatigue.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Implementation Capacity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Integration Risk.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Administration Effort.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Migration Risk.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Feature Parity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Proof Relevance.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Learner Adoption.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection Enrichment Standard.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Objections/Objection - Reporting Fit.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Internal-Processes": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Services and Implementation Positioning.md",
+        "Migration and Transition Qualification.md",
+        "Security and Procurement Preparation.md",
+        "Implementation Lifecycle and Ownership.md",
+        "Change Management Consulting Positioning.md"
+      ]
+    },
+    "LLM-WIKI D2L/Internal-Processes/Change Management Consulting Positioning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Internal-Processes/Implementation Lifecycle and Ownership.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Internal-Processes/Security and Procurement Preparation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Internal-Processes/Migration and Transition Qualification.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Internal-Processes/Services and Implementation Positioning.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Buyer-Outcomes": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "PERSONA CROSS-REFERENCE.md",
+        "Buyer Outcomes and Value Hypotheses.md",
+        "Association Buyer Outcomes.md"
+      ]
+    },
+    "LLM-WIKI D2L/Buyer-Outcomes/Association Buyer Outcomes.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Buyer-Outcomes/Buyer Outcomes and Value Hypotheses.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Buyer-Outcomes/PERSONA CROSS-REFERENCE.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Value Model - Time to Launch.md",
+        "Value Model - Revenue Growth.md",
+        "Value Model - Risk Reduction.md",
+        "Value Model - Learner Retention and Engagement.md",
+        "Value Model - Platform Consolidation.md",
+        "Business Case Toolkit.md",
+        "Quantified Value Model Worksheet.md",
+        "Value Model - Administrative Efficiency.md",
+        "Value Model - Global Scale.md",
+        "Value Model - Credential Growth.md",
+        "Executive Business Case Template.md"
+      ]
+    },
+    "LLM-WIKI D2L/Business-Cases/Executive Business Case Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Credential Growth.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Global Scale.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Administrative Efficiency.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Quantified Value Model Worksheet.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Business Case Toolkit.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Platform Consolidation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Learner Retention and Engagement.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Risk Reduction.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Revenue Growth.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Business-Cases/Value Model - Time to Launch.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Live-Engagements": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Account Intelligence Templates.md",
+        "Accounts Overview"
+      ]
+    },
+    "LLM-WIKI D2L/Live-Engagements/Accounts Overview": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Top 50 Accounts - TO-ENT.md",
+        "Tier 2 Accounts - TO ENT.md",
+        "Tier 1 Accounts - TO ENT.md",
+        "Account Universe.md"
+      ]
+    },
+    "LLM-WIKI D2L/Live-Engagements/Account Intelligence Templates.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Live-Engagements/Accounts Overview/Account Universe.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Live-Engagements/Accounts Overview/Tier 1 Accounts - TO ENT.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Live-Engagements/Accounts Overview/Tier 2 Accounts - TO ENT.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Live-Engagements/Accounts Overview/Top 50 Accounts - TO-ENT.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Inbox": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "WISCONSIN TECHNOLOGY COUNCIL",
+        "Species360",
+        "PMA",
+        "Oncology Nursing Society, Account Research.md",
+        "Massachusetts Society of CPAs - Public Research.md"
+      ]
+    },
+    "LLM-WIKI D2L/Inbox/Massachusetts Society of CPAs - Public Research.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Inbox/Oncology Nursing Society, Account Research.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Inbox/PMA": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "PMA Research.md"
+      ]
+    },
+    "LLM-WIKI D2L/Inbox/Species360": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Species360 Engagement Analysis.md"
+      ]
+    },
+    "LLM-WIKI D2L/Inbox/WISCONSIN TECHNOLOGY COUNCIL": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Wisconsin Technology Council - Account Research.md",
+        "D2L Positioning & Sales \"Take\" on Tech Council Opportunities.md"
+      ]
+    },
+    "LLM-WIKI D2L/Inbox/PMA/PMA Research.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Inbox/Species360/Species360 Engagement Analysis.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Inbox/WISCONSIN TECHNOLOGY COUNCIL/D2L Positioning & Sales \"Take\" on Tech Council Opportunities.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Inbox/WISCONSIN TECHNOLOGY COUNCIL/Wisconsin Technology Council - Account Research.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Tags Navigation.md",
+        "Source Verification Register - Scale Content 2026-07-30.md",
+        "Source Index.md",
+        "Source - Salesforce My Open Opportunities 2026-07-31.md",
+        "Source - Product Resources hub.md",
+        "Source - FY27 Winning Story for Training Organizations.md",
+        "Source - FY27 Winning Story Association Focus.md",
+        "Source - FY27 Vision Story for Training Organizations.md",
+        "Source - FY27 D2L Story for Training Organizations.md",
+        "Source - FY27 AI Story for Training Organizations.md",
+        "Source - D2L Brightspace for Healthcare Associations.md",
+        "Source - Course Merchant Overview.md",
+        "Source - Corporate Use Cases.md",
+        "Source - BoostUp Meeting Summaries Last Three Months.md",
+        "Source - Association 3-level pitch deck.md",
+        "README.md",
+        "Knowledge Graph.md",
+        "Entity Relationships.md",
+        "D2L Public Product Website Register.md"
+      ]
+    },
+    "LLM-WIKI D2L/Source-Index/D2L Public Product Website Register.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Entity Relationships.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Knowledge Graph.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/README.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - Association 3-level pitch deck.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - BoostUp Meeting Summaries Last Three Months.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - Corporate Use Cases.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - Course Merchant Overview.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - D2L Brightspace for Healthcare Associations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - FY27 AI Story for Training Organizations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - FY27 D2L Story for Training Organizations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - FY27 Vision Story for Training Organizations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - FY27 Winning Story Association Focus.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - FY27 Winning Story for Training Organizations.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - Product Resources hub.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source - Salesforce My Open Opportunities 2026-07-31.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source Index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Source Verification Register - Scale Content 2026-07-30.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Source-Index/Tags Navigation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Review-Queue": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Retagging Exercise - Comprehensive Audit & Plan.md",
+        "Review Queue.md",
+        "Generated Refresh Queue.md"
+      ]
+    },
+    "LLM-WIKI D2L/Review-Queue/Generated Refresh Queue.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Review-Queue/Review Queue.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Review-Queue/Retagging Exercise - Comprehensive Audit & Plan.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Archive": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Synthetic Pilot Source.md"
+      ]
+    },
+    "LLM-WIKI D2L/Archive/Synthetic Pilot Source.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/AGENTS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "enterprise-search-strategy.md",
+        "enterprise-search-source-management.md",
+        "enterprise-search-multi-source.md",
+        "enterprise-search-knowledge-synthesis.md",
+        "enterprise-search-digest.md",
+        "enterprise-search.md",
+        "deep-research.md",
+        "llm-wiki.md",
+        "context-eng-tool-design.md",
+        "context-eng-project-development.md",
+        "context-eng-multi-agent-patterns.md",
+        "context-eng-memory-systems.md",
+        "context-eng-latent-briefing.md",
+        "context-eng-hosted-agents.md",
+        "context-eng-harness-engineering.md",
+        "context-eng-filesystem-context.md",
+        "context-eng-evaluation.md",
+        "context-eng-context-optimization.md",
+        "context-eng-context-fundamentals.md",
+        "context-eng-context-degradation.md",
+        "context-eng-context-compression.md",
+        "context-eng-bdi-mental-states.md",
+        "context-eng-advanced-evaluation.md",
+        "superpowers-writing-skills.md",
+        "superpowers-writing-plans.md",
+        "superpowers-verification-before-completion.md",
+        "superpowers-using-superpowers.md",
+        "superpowers-using-git-worktrees.md",
+        "superpowers-test-driven-development.md",
+        "superpowers-systematic-debugging.md",
+        "superpowers-subagent-driven-development.md",
+        "superpowers-requesting-code-review.md",
+        "superpowers-receiving-code-review.md",
+        "superpowers-finishing-a-development-branch.md",
+        "superpowers-executing-plans.md",
+        "superpowers-dispatching-parallel-agents.md",
+        "superpowers-brainstorming.md",
+        "claude-code-reference.md",
+        "claude-code-plugin-dev.md",
+        "skills",
+        "obsidian-markdown",
+        "obsidian-bases",
+        "json-canvas"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/json-canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/obsidian-bases": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/obsidian-markdown": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/json-canvas/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/obsidian-bases/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/obsidian-markdown/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI Request Logs/system-consolidation-category-reduction.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Account Research Workflow": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Account Research Workflow.md",
+        "README.md"
+      ]
+    },
+    "LLM-WIKI D2L/Account Research Workflow/README.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Account Research Workflow/Account Research Workflow.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Relationship Resources Index.md",
+        "Relationship Architecture.md",
+        "Relationships - START HERE.md",
+        "Relationship Quick-Start.md",
+        "Insight Catalyst Matrix.md",
+        "Relationship Framework.md",
+        "Pilot Source Inventory.md",
+        "Vault Health Report.md",
+        "VAULT DASHBOARD.md",
+        "Source Policy.md",
+        "Product-Relationship Map.md",
+        "Navigation Hub - Start Here.md",
+        "Navigation Principles.md",
+        "Live Engagement Data Model.md",
+        "Knowledge Standards.md",
+        "Live Engagement Data Implementation Plan.md",
+        "Brain Dashboard.md",
+        "Contentways.md",
+        "Candidate Ingestion Queue.md"
+      ]
+    },
+    "LLM-WIKI D2L/Dashboards/Candidate Ingestion Queue.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Contentways.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Brain Dashboard.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Live Engagement Data Implementation Plan.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Knowledge Standards.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Live Engagement Data Model.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Navigation Principles.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Navigation Hub - Start Here.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Product-Relationship Map.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Source Policy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/VAULT DASHBOARD.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Vault Health Report.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Pilot Source Inventory.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Relationship Framework.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Insight Catalyst Matrix.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "firecrawl",
+        "last30days",
+        "d2l-sales-brief",
+        "d2l-brain-curate",
+        "d2l-brain-search",
+        "d2l-change-radar",
+        "d2l-proof-finder",
+        "d2l-brain-refresh",
+        "d2l-brain-capture",
+        "d2l-objection-coach"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "last30days",
+        "agents",
+        "assets",
+        "scripts",
+        "references"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-sales-brief": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-sales-brief",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-curate": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-brain-curate",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-search": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-brain-search",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-change-radar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-change-radar",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-proof-finder": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-proof-finder",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-refresh": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-brain-refresh",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-capture": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-brain-capture",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "claude-code-rap.mp3",
+        "dog-as-human.png",
+        "swimmom-mockup.jpeg",
+        "aging-portrait.jpeg",
+        "dog-original.jpeg"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/scripts": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "lib"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-objection-coach": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "d2l-objection-coach",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/references": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "save-html-brief.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-sales-brief/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/scripts/lib": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "vendor",
+        "__pycache__"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-curate/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-search/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-change-radar/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-proof-finder/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-refresh/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-capture/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-objection-coach/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/scripts/lib/vendor": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "bird-search"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/scripts/lib/__pycache__": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/scripts/lib/vendor/bird-search": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "lib"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/scripts/lib/vendor/bird-search/lib": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/references/save-html-brief.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/claude-code-rap.mp3": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/dog-as-human.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/swimmom-mockup.jpeg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/aging-portrait.jpeg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/dog-original.jpeg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-refresh/d2l-brain-refresh": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "agents",
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-refresh/d2l-brain-refresh/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-refresh/d2l-brain-refresh/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-capture/d2l-brain-capture": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "agents",
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-capture/d2l-brain-capture/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-capture/d2l-brain-capture/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-curate/d2l-brain-curate": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "SKILL.md",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-curate/d2l-brain-curate/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-curate/d2l-brain-curate/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-search/d2l-brain-search": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "agents",
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-search/d2l-brain-search/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-brain-search/d2l-brain-search/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-change-radar/d2l-change-radar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "agents",
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-change-radar/d2l-change-radar/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-change-radar/d2l-change-radar/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-objection-coach/d2l-objection-coach": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "SKILL.md",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-objection-coach/d2l-objection-coach/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-objection-coach/d2l-objection-coach/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-proof-finder/d2l-proof-finder": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "agents",
+        "SKILL.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-proof-finder/d2l-proof-finder/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-proof-finder/d2l-proof-finder/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-sales-brief/d2l-sales-brief": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "SKILL.md",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-sales-brief/d2l-sales-brief/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/d2l-sales-brief/d2l-sales-brief/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/firecrawl": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "firecrawl.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/firecrawl/firecrawl.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "scripts",
+        "references",
+        "assets",
+        "SKILL.md",
+        "agents"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/agents": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/SKILL.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "swimmom-mockup.jpeg",
+        "claude-code-rap.mp3",
+        "dog-as-human.png",
+        "dog-original.jpeg",
+        "aging-portrait.jpeg"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/references": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "save-html-brief.md"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "lib"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/aging-portrait.jpeg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/dog-original.jpeg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/dog-as-human.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/claude-code-rap.mp3": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/swimmom-mockup.jpeg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/references/save-html-brief.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "vendor",
+        "__pycache__"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/__pycache__": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/vendor": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "bird-search"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/vendor/bird-search": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "lib"
+      ]
+    },
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/vendor/bird-search/lib": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "LLM-WIKI D2L/templates/Relationship Mapping Template.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Relationship Quick-Start.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Relationships - START HERE.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/System/Tag Migration Map.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Relationship Architecture.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/Dashboards/Relationship Resources Index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/raw": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Relationships - START HERE.md"
+      ]
+    },
+    "LLM-WIKI D2L/raw/Relationships - START HERE.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/claude-code-plugin-dev.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/claude-code-reference.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-brainstorming.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-dispatching-parallel-agents.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-executing-plans.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-finishing-a-development-branch.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-receiving-code-review.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-requesting-code-review.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-subagent-driven-development.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-systematic-debugging.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-test-driven-development.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-using-git-worktrees.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-using-superpowers.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-verification-before-completion.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-writing-plans.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/superpowers-writing-skills.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-advanced-evaluation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-bdi-mental-states.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-compression.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-degradation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-fundamentals.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-optimization.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-evaluation.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-filesystem-context.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-harness-engineering.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-hosted-agents.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-latent-briefing.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-memory-systems.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-multi-agent-patterns.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-project-development.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/context-eng-tool-design.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/llm-wiki.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/deep-research.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/enterprise-search.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-digest.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-knowledge-synthesis.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-multi-source.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-source-management.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-strategy.md": {
+      "isPinned": false,
+      "isHidden": false
+    }
+  },
+  "pinnedFiles": [],
+  "showHidden": false,
+  "newItemPlacement": "top",
+  "persistOrderOnCreateDelete": true,
+  "debugMode": false
+}
