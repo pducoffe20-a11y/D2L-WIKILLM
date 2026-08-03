@@ -43,7 +43,7 @@ jobs:
           # include dotfiles when moving
           shopt -s dotglob || true
           if [ -d extracted ]; then
-            mv extracted/* unpacked/Obsidian-LLM-WIKI/ || true
+            mv extracted/* unpacked/Remote Vault.zip/ || true
           fi
       - name: Commit and push extracted files
         env:
