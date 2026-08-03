@@ -39,7 +39,7 @@ jobs:
 
       - name: Move files into target folder
         run: |
-          mkdir -p unpacked/remote-vault-d2l
+          mkdir -p unpacked/remote-vault
           # include dotfiles when moving
           shopt -s dotglob || true
           if [ -d extracted ]; then
