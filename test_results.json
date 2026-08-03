@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-08-03T16:29:15.005003",
+  "total_tests": 17,
+  "passed": 17,
+  "failed": 0,
+  "results": [
+    {
+      "test_id": "structure_d2l-brain-search",
+      "skill_name": "d2l-brain-search",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-brain-search/d2l-brain-search/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004384"
+    },
+    {
+      "test_id": "structure_d2l-sales-brief",
+      "skill_name": "d2l-sales-brief",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-sales-brief/d2l-sales-brief/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004408"
+    },
+    {
+      "test_id": "structure_d2l-objection-coach",
+      "skill_name": "d2l-objection-coach",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-objection-coach/d2l-objection-coach/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004431"
+    },
+    {
+      "test_id": "structure_d2l-proof-finder",
+      "skill_name": "d2l-proof-finder",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-proof-finder/d2l-proof-finder/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004449"
+    },
+    {
+      "test_id": "structure_d2l-brain-capture",
+      "skill_name": "d2l-brain-capture",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-brain-capture/d2l-brain-capture/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004465"
+    },
+    {
+      "test_id": "structure_d2l-brain-curate",
+      "skill_name": "d2l-brain-curate",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-brain-curate/d2l-brain-curate/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004480"
+    },
+    {
+      "test_id": "structure_d2l-brain-refresh",
+      "skill_name": "d2l-brain-refresh",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-brain-refresh/d2l-brain-refresh/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004503"
+    },
+    {
+      "test_id": "structure_d2l-change-radar",
+      "skill_name": "d2l-change-radar",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/d2l-change-radar/d2l-change-radar/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004521"
+    },
+    {
+      "test_id": "structure_firecrawl",
+      "skill_name": "firecrawl",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skill structure valid: /home/user/D2L-WIKILLM/unpacked/remote-vault/Remote Vault/skills/firecrawl/firecrawl/SKILL.md",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004537"
+    },
+    {
+      "test_id": "registry_skills_count",
+      "skill_name": "registry",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Registry contains 9 skills",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004586"
+    },
+    {
+      "test_id": "registry_categories",
+      "skill_name": "registry",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Skills organized in 7 categories: Evidence Discovery, Knowledge Management, Knowledge Search, Market Intelligence, Sales Coaching, Sales Enablement, Web Crawling",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004599"
+    },
+    {
+      "test_id": "registry_providers",
+      "skill_name": "registry",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Multi-provider support: claude-3-5-sonnet, claude-3-haiku, claude-3-opus, gemini-pro",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004616"
+    },
+    {
+      "test_id": "workflow_sales_research",
+      "skill_name": "Sales Research",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Workflow 'Sales Research' has all required skills",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004632"
+    },
+    {
+      "test_id": "workflow_sales_coaching",
+      "skill_name": "Sales Coaching",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Workflow 'Sales Coaching' has all required skills",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004639"
+    },
+    {
+      "test_id": "workflow_knowledge_management",
+      "skill_name": "Knowledge Management",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Workflow 'Knowledge Management' has all required skills",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004645"
+    },
+    {
+      "test_id": "workflow_competitive_intelligence",
+      "skill_name": "Competitive Intelligence",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Workflow 'Competitive Intelligence' has all required skills",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004651"
+    },
+    {
+      "test_id": "workflow_account_planning",
+      "skill_name": "Account Planning",
+      "provider": "validation",
+      "status": "PASS",
+      "message": "Workflow 'Account Planning' has all required skills",
+      "latency_ms": null,
+      "timestamp": "2026-08-03T16:29:15.004657"
+    }
+  ]
+}
