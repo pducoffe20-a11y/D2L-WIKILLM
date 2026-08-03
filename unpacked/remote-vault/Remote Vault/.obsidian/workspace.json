@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "cf1f3d73d640ea02",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c4f36d73e0d514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e04b1ed402637c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfef68ea59a20d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "db2abcf7d2f323bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c51e83bf674a84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83f3508403e514f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "416ef500bbb4ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cbfb4c62d78aeb62",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "109727c430ad372e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c7c0a0871718ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42142f369353c06b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LLM-WIKI D2L/AI/Skills/deep-research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "43755296f260b9e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LLM-WIKI D2L/AI/Skills/deep-research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "10f32ebf37054180",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81b509eb6222a5e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9bca7171682245b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LLM-WIKI D2L/AI/Skills/deep-research.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0a0b6fb16b0fc4d8",
+            "type": "leaf",
+            "state": {
+              "type": "bojubot-chat",
+              "state": {},
+              "icon": "brain-circuit",
+              "title": "BojuBot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "bojubot:Open BojuBot agent": false,
+      "new-3d-graph:Open 3d graph": false,
+      "colorful-folders:Toggle stealth mode": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "84e04b1ed402637c",
+  "lastOpenFiles": [
+    "LLM-WIKI D2L/Customer-Proof/national-society-of-high-school-scholars-helping-gen-z-succeed-in-the-workplace.md",
+    "LLM-WIKI D2L (1)/Account Research Workflow",
+    "LLM-WIKI D2L (1)",
+    "LLM-WIKI D2L (2)/Account Research Workflow",
+    "LLM-WIKI D2L (2)",
+    "LLM-WIKI D2L/AI/Skills/deep-research.md",
+    "LLM-WIKI D2L/AI/Skills/claude-code-plugin-dev.md",
+    "LLM-WIKI D2L/AI/Skills/llm-wiki.md",
+    "LLM-WIKI D2L/AI/Skills/enterprise-search.md",
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-strategy.md",
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-source-management.md",
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-multi-source.md",
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-knowledge-synthesis.md",
+    "LLM-WIKI D2L/AI/Skills/enterprise-search-digest.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-tool-design.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-project-development.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-multi-agent-patterns.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-memory-systems.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-latent-briefing.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-hosted-agents.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-harness-engineering.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-filesystem-context.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-evaluation.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-optimization.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-fundamentals.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-degradation.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-context-compression.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-bdi-mental-states.md",
+    "LLM-WIKI D2L/AI/Skills/context-eng-advanced-evaluation.md",
+    "LLM-WIKI D2L/AI/Skills/superpowers-writing-skills.md",
+    "LLM-WIKI D2L/raw",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/vendor/bird-search/lib",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/vendor/bird-search",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/vendor",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib/__pycache__",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/scripts/lib",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/swimmom-mockup.jpeg",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/dog-as-human.png",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/dog-original.jpeg",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/last30days/assets/aging-portrait.jpeg",
+    "LLM-WIKI D2L/skills/skills 1/last30days/assets/dog-original.jpeg",
+    "LLM-WIKI D2L/skills/skills 1/last30days/assets/swimmom-mockup.jpeg",
+    "LLM-WIKI D2L/skills/skills 1/last30days/assets/dog-as-human.png",
+    "LLM-WIKI D2L/skills/skills 1/last30days/assets/aging-portrait.jpeg",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/dog-original.jpeg",
+    "LLM-WIKI D2L/AI/Skills/skills/last30days/assets/aging-portrait.jpeg"
+  ]
+}

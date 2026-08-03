@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "90-Inbox",
+  "mobilePullAction": "command-palette:open",
+  "promptDelete": false,
+  "deleteUnlinkedAttachments": "never",
+  "mobileQuickRibbonItem": "notebook-navigator:Notebook Navigator"
+}

@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#course-merchant  ",
+      "color": {
+        "a": 1,
+        "rgb": 65531
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.11784638554217,
+  "lineSizeMultiplier": 2.42006777108434,
+  "collapse-forces": true,
+  "centerStrength": 0.64796686746988,
+  "repelStrength": 10.4346846846847,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2690897375841758,
+  "close": true
+}
